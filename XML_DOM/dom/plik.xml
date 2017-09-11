@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2016-10-16T10:05:02Z"/>
+  <way id="152979947" version="1" timestamp="2012-03-03T12:29:24Z" changeset="10857136" uid="598456" user="vinci4352">
+    <nd ref="1657389170"/>
+    <nd ref="1657389135"/>
+    <nd ref="1657389172"/>
+    <nd ref="1657389173"/>
+    <nd ref="1657389190"/>
+    <nd ref="1657389171"/>
+    <nd ref="1657389201"/>
+    <nd ref="1657389191"/>
+    <nd ref="1657389204"/>
+    <nd ref="1657389195"/>
+    <nd ref="1657389170"/>
+    <tag k="building" v="yes"/>
+  </way>
+  </osm>

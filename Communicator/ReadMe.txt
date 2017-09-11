@@ -1,0 +1,1 @@
+It program imitate popular comunicator gadu-gadu but are some of differents. The most important things is that user can host server. Other users can connect to his server. This is simple example of client-server model. I apply multithreding models here, becouse one user can host server and talk with other users.

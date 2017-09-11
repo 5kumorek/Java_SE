@@ -1,0 +1,3 @@
+My program allow to scroll and update. To reads records from database is used CachedRowSet. It allow to obtain records from database and later synchronize it with database, if we want it. Further feature is that we have able two languages: english and german. Application is very simple and transparent
+
+I check ascii code of germans letters on https://native2ascii.net/
