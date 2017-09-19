@@ -14,7 +14,6 @@ Simple projects:
 -Zgadywanka
 
 Advanced projects:
--Client_DB, Server_DB (Here is appply javaFX library)
 -Communicator
 -Input_output_2
 -Input_output_3
